@@ -3,7 +3,7 @@
 Gaurav Jain | Software Engineer | ❤️ Python | Blogger | Consultant
 
 #### Namaste 🙏 <Devs<Devs/>>!
-My name is Gaurav Jain. I’m from Jaipur(India), currently reside in Berlin(Germany). I’m the creator and author of the Blog Pyscoop.
+My name is Gaurav Jain. I’m from India, currently reside in Germany. I’m the creator and author of the Blog Pyscoop.
 
 I’m a Software Engineer who loves to read and write about Programming, Software development practices, and latest trends in internet industries.
 
