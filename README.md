@@ -45,7 +45,8 @@ Speciality: Backend Software Engineering (Python/Django)
 
 ![Visitor Count](https://profile-counter.glitch.me/{gjain0}/count.svg)
 
-[twitter]: https://twitter.com/gjain0
+[twitter]: https://twitter.com/gauravvjn
+[instagram]: https://instagram.com/gauravvjn
 [youtube]: https://www.youtube.com/channel/UCpg35vACbcgswUgHWf2br9A
-[linkedin]: https://www.linkedin.com/in/gjain0/
+[linkedin]: https://www.linkedin.com/in/gauravvjn/
 [Facebook]: https://www.facebook.com/pyscoop
