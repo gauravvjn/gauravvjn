@@ -1,6 +1,6 @@
-### [PyScoop](http://www.pyscoop.com)
+### [Gaurav Jain](http://www.gauravvjn.com)
 
-Gaurav Jain | Software Engineer | ❤️ Python | Blogger | Consultant
+Software Engineer | ❤️ Python | Blogger | Consultant
 
 #### Namaste 🙏 <Devs<Devs/>>!
 My name is Gaurav Jain. I’m from India, currently reside in Germany. I’m the creator and author of the Blog [gauravvjn.com](https://www.gauravvjn.com/).
@@ -24,17 +24,17 @@ Speciality: Backend Software Engineering (Python/Django)
 
 <table>
   
-  You can find my blogs at [Pyscoop](https://www.pyscoop.com). Some of popular ones are -
+  You can find my blogs at [gauravvjn.com](https://www.gauravvjn.com). Some of popular ones are -
 
   <tr><td>
   
-- [Security in Django](https://www.pyscoop.com/security-in-the-django-application/)
+- [Security in Django](https://www.gauravvjn.com/security-in-the-django-application/)
       
-- [Building a Simple Blockchain in Python](https://www.pyscoop.com/building-a-simple-blockchain-in-python/)
+- [Building a Simple Blockchain in Python](https://www.gauravvjn.com/building-a-simple-blockchain-in-python/)
       
-- [Machine Learning for beginners with Amazon SageMaker - Python](https://www.pyscoop.com/machine-learning-for-beginners-with-amazon-sagemaker/)
+- [Machine Learning for beginners with Amazon SageMaker - Python](https://www.gauravvjn.com/machine-learning-for-beginners-with-amazon-sagemaker/)
       
-- [Learn Python in 10 minutes](https://www.pyscoop.com/learn-python-in-10-minutes/)
+- [Learn Python in 10 minutes](https://www.gauravvjn.com/learn-python-in-10-minutes/)
 </td></tr>
 </table>
 
