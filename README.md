@@ -40,11 +40,11 @@ Speciality: Backend Software Engineering (Python/Django)
 
 <details open>
  <summary>📊 Github Stats</summary>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gjain0&show_icons=true&theme=gotham" alt="Gaurav Jain | Stats" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravvjn&show_icons=true&theme=gotham" alt="Gaurav Jain | Stats" />
 </details>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{gjain0}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{gauravvjn}/count.svg)
 
 [linkedin]: https://www.linkedin.com/in/gauravvjn
 [instagram]: https://instagram.com/gauravvjn
