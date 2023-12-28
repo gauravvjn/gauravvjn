@@ -3,7 +3,7 @@
 Software Engineer | ❤️ Python | Blogger | Consultant
 
 #### Namaste 🙏 <Devs<Devs/>>!
-My name is Gaurav Jain. I’m from India. I’m the creator and author of the Blog [gauravvjn.com](https://www.gauravvjn.com/).
+My name is Gaurav Jain. I’m from India. I’m the creator and author of the Blog [gauravvjn.medium.com](https://gauravvjn.medium.com/).
 
 I’m a Software Engineer who loves to read and write about Programming, Software development practices, and latest trends in internet industries.
 
