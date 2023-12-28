@@ -24,17 +24,13 @@ Speciality: Backend Software Engineering (Python/Django)
 
 <table>
   
-  You can find my blogs at [gauravvjn.com](https://www.gauravvjn.com). Some of popular ones are -
+  You can find my blogs at [gauravvjn.medium.com](https://gauravvjn.medium.com/). Some of the popular ones are -
 
   <tr><td>
+- [Secrets of Security in a Django application](https://gauravvjn.medium.com/secrets-of-security-in-a-django-application-0dfb41957eb0)
+      
+- [Saving GeoPoints with Django Form](https://gauravvjn.medium.com/saving-geopoints-with-django-form-2effe68330b6)
   
-- [Security in Django](https://www.gauravvjn.com/security-in-the-django-application/)
-      
-- [Building a Simple Blockchain in Python](https://www.gauravvjn.com/building-a-simple-blockchain-in-python/)
-      
-- [Machine Learning for beginners with Amazon SageMaker - Python](https://www.gauravvjn.com/machine-learning-for-beginners-with-amazon-sagemaker/)
-      
-- [Learn Python in 10 minutes](https://www.gauravvjn.com/learn-python-in-10-minutes/)
 </td></tr>
 </table>
 
